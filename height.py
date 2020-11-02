@@ -1,0 +1,5 @@
+h = input("Enter Your age: ")
+print("You are ", h, "Years Old.")
+print("I know that I have a big brain to make this app lol.")
+print('Thank You so much for trying out this app :) hope you enjoyed it')
+input('Press enter to exit')
